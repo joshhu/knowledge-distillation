@@ -35,8 +35,10 @@ env/
 .ipynb_checkpoints
 *.ipynb_checkpoints
 
-# Data
-data/
+# Data (downloaded datasets, not code)
+data/cifar-10-*
+data/*.tar.gz
+data/*.zip
 *.zip
 *.tar.gz
 
